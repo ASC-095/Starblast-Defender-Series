@@ -27,12 +27,15 @@ var Crusader_406 = '{"name":"Crusader","level":4,"model":6,"size":1.6,"specs":{"
 //Tier 7
 
 shiptree.push(Defender_V2_101);
+
 shiptree.push(Cyclops_201);
 shiptree.push(Trident_Defender_202);
+
 shiptree.push(Omega_Defender_301);
 shiptree.push(Obridion_302);
 shiptree.push(Rock_Defender_303);
 shiptree.push(Y_Defender_304);
+
 shiptree.push(Kaell_Defender_401);
 shiptree.push(W_Defender_402);
 

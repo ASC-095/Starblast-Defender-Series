@@ -1,6 +1,6 @@
 /*Defender Series v.1.0 - The First Version
 A compilation of Defenders from mods, Enjoy! ;)
-Thanks to Kleinem, SChickenMan (ThirdEyeMan), ASC-027, Neuronality, Goldman, and ASC-095 for the ships =D
+Thanks to Kleinem, SChickenMan (ThirdEyeMan), ASC-027, Neuronality, Melefor, Goldman, and ASC-095 for the ships =D
 Mod code - ASC-095, with the help of ASC-027
 */
 
